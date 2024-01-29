@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zeldacamila/pdfToExcel/issues"
   },
-  "homepage": "https://github.com/zeldacamila/pdfToExcel#readme"
+  "homepage": "https://github.com/zeldacamila/pdfToExcel#readme",
+  "dependencies": {
+    "pdfreader": "^3.0.2"
+  }
 }
